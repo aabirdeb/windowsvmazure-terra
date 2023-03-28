@@ -150,3 +150,7 @@ resource "azurerm_windows_virtual_machine" "appvm" {
     azurerm_resource_group.appgrp
   ]
 }
+
+
+
+#done all the atsk
