@@ -88,3 +88,4 @@ resource "azurerm_virtual_network" "appnetwork" {
 
 
 #modules of azure in the linux machine output
+#rename it wehwenever u used
