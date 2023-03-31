@@ -84,3 +84,7 @@ resource "azurerm_virtual_network" "appnetwork" {
     azurerm_resource_group.app-grp
   ]
 }
+
+
+
+#modules of azure in the linux machine output
