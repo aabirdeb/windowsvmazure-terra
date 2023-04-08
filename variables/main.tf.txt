@@ -153,3 +153,6 @@ resource "azurerm_managed_disk" "appdisk" {
   lun                = "0"
   caching            = "ReadWrite"
 }
+
+
+try to playwkith variables 
